@@ -71,4 +71,6 @@ class Person
 end
 
 
+akin = Person.new ("Akin")
 
+binding.pry
